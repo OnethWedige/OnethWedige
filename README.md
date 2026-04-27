@@ -6,7 +6,7 @@
 
 <p float="left">
   <img align="right"
-       src="[https://cdn.donmai.us/sample/be/d1/__lucca_ashtear_and_robo_chrono_trigger_drawn_by_hosodayo__sample-bed1d8c32591d5edd5dee39be2da27e7.jpg](https://www.linkedin.com/pulse/evolution-ai-from-simple-models-complex-intelligent-e-fantinatti-9r7tc)"
+       src="https://github.com/OnethWedige/OnethWedige/blob/bdec8f6e21c9a716cd2cda27eeb24a6a157c80f9/Network.jpg"
        width="350"
        height="300" />
 </p>
