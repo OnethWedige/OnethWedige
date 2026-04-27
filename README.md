@@ -8,8 +8,7 @@
   <img align="right"
        src="https://github.com/OnethWedige/OnethWedige/blob/bdec8f6e21c9a716cd2cda27eeb24a6a157c80f9/Network.jpg?raw=true"
        width="250"
-       height="200" 
-       style="margin-top: 20px;/>
+       height="200" />
 </p>
 
 - I am an aspiring Network Engineer with a strong educational base, having successfully completed my Higher Diploma in Computing & Software Engineering.
